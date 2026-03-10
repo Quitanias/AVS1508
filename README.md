@@ -1,5 +1,3 @@
-![Andreia Quitanias](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Andreia</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Andreia -->
@@ -30,5 +28,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/quitanias"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/quitanias"><img src="https://img.shields.io/badge/-Andreia%20Quitanias-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
